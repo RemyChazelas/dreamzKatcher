@@ -1,0 +1,27 @@
+{
+  "name": "dreamzKatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.15",
+    "multer": "^2.0.0-rc.1",
+    "nodemon": "^2.0.7",
+    "stream": "0.0.2",
+    "util": "^0.12.4",
+    "validator": "^13.6.0"
+  }
+}
